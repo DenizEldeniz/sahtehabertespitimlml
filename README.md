@@ -1,5 +1,5 @@
 # Sahte Haber Tespit Projesi
-[https://www.kaggle.com/code/denizeldeniz/sahtehabertespitimlml](https://www.kaggle.com/code/denizeldeniz/habertespitmlml)
+[[https://www.kaggle.com/code/denizeldeniz/sahtehabertespitimlml](https://www.kaggle.com/code/denizeldeniz/habertespitmlml)](https://www.kaggle.com/code/denizeldeniz/habertespitmlml)
 !!!!!! 100mb boyutunu açtığı için https://www.kaggle.com/datasets/suleymancan/turkishnews70000 isimli data setimi githuba yükleyemedim.!!!!!!
 
 Bu proje, Türkçe haber makalelerini **gerçek** veya **sahte** olarak sınıflandırmak için bir makine öğrenmesi modeli geliştirmeyi amaçlamaktadır. Veri seti, çeşitli kaynaklardan toplanan gerçek haber makaleleri ve ayrı olarak üretilen veya temin edilen sahte haber makalelerinden oluşmaktadır. Proje, ikili sınıflandırma için Lojistik Regresyon kullanmakta ve doğal dil işleme (NLP) teknikleriyle işlenen metin verilerine dayanmaktadır.
